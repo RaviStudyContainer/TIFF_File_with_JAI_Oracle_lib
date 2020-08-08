@@ -19,7 +19,8 @@ Ravi Sharma
 
 
 
-How to use this Code-
+How to use this Code- <br><br><br>
+
 1- Create your java Project in your eclipse <br>
 2- Copy "jai_imageio.jar" from "C:\Program Files (x86)\Sun Microsystems\JAI Image IO Tools 1.0_01" this location to your project library <br>
 3- Copy TIFFRead.java file in your java project <br>
