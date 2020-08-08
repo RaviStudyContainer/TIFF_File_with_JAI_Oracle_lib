@@ -11,3 +11,18 @@ Java Advanced Imaging API 1.1.2_01; Java Advanced Imaging API Demo 1.1.2; Java A
 5-Please check your java under Program file X86 folder installation.<br>
 6-After successful installation of the above.Exe file, you may see jai_imageio.jar, clibwrapper_jiio.jar, and clib_jiio.dll<br>
 7-Now, you can use 'jai_imageio.jar' in your java project as lib (add as Project Lib, Ant, Maven, Gradle, etc.)<br>
+
+
+
+How to use this Code-
+1- Create your java Project in your eclipse
+2- Copy "jai_imageio.jar" from "C:\Program Files (x86)\Sun Microsystems\JAI Image IO Tools 1.0_01" this location to your project library
+3- Copy TIFFRead.java file in your java project
+4- Copy sample_640×426.tiff file in your java project root folder
+5- Change the file path location in TIFFRead.java (currenlty - file:///G:\\Study\\TIFF_Ravi_Read\\sample_640×426.tiff)
+6- Right click of TIFFRead.java and ran as Java Application
+7- You may see the newTiffImage.tiff on same location added with System date and other text as bottom of image like (signature)
+
+Thanks !
+Ravi Sharma
+  
